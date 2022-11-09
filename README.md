@@ -1,4 +1,4 @@
-# Multithreaded Traffic Signal System with BeagleBone Black
+# Multithreaded TrafficLight System with BeagleBone Black
 
 G00765199: Alan Boyce 
 G01339210: Sai Srikar Chivukula
