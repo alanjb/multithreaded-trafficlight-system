@@ -3,7 +3,7 @@
 G00765199: Alan Boyce 
 G01339210: Sai Srikar Chivukula
 
-Hardware Description
+## Hardware Description
 
 	•	BeagleBone Black
 	•	Breadboard
@@ -25,6 +25,8 @@ Hardware Description
 	•	For Push Button-1, We have connected one end of the button to the left side 3.3v of breadboard. The other end of the button to GPIO26, for taking input from the button and sending it to Beaglebone black.
 	•	For Push Button-2, We have connected one end of the button to the left side 3.3v of breadboard. The other end of the button to GPIO47, for taking input from the button and sending it to Beaglebone black.
 	•	
+
+## Demo
 
 
 
