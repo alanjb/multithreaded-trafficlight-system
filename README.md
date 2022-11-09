@@ -26,7 +26,5 @@ Hardware Description
 	•	For Push Button-2, We have connected one end of the button to the left side 3.3v of breadboard. The other end of the button to GPIO47, for taking input from the button and sending it to Beaglebone black.
 	•	
 
-Code Check General Reflection
-For the Code Check, we were able to reduce the number of violations by creating #defines, modularizing the code and creating global variables as well as using types throughout the codebase. Some of the code check violations were redundant such as the discarded return values for the main function and other void functions. Other violations were unclear how to fix such as the “has external linkage but no visible declaration” so those were left as is. 
 
 
