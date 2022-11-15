@@ -1,5 +1,7 @@
 # Multithreaded TrafficLight System with BeagleBone Black
 
+CS695 @ GMU
+
 G00765199: Alan Boyce 
 G01339210: Sai Srikar Chivukula
 
